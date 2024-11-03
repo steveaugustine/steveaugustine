@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @steveaugustine
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web
+- 😎 100X DEV
 
 
 <!---
